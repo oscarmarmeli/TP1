@@ -1,4 +1,4 @@
-# Oscar Marmeli - e-commerce venta de insumos informáticos
+# Bienvenido a nuestro e-commerce venta de insumos informáticos!
 
 # Descripción del sitio
 e-comerce enfocado a la venta de insumos informáticos, donde los usuarios podrán realizar pedidos, agregarlos al carrito de compras y pagar a través de Mercadopago.
